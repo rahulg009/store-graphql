@@ -1,0 +1,28 @@
+{
+  "name": "store-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "rahul",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/load-files": "^6.3.2",
+    "@graphql-tools/schema": "^8.0.3",
+    "apollo-server-express": "^3.2.0",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulg009/store-graphql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahulg009/store-graphql/issues"
+  },
+  "homepage": "https://github.com/rahulg009/store-graphql#readme"
+}
